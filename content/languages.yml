@@ -42,7 +42,7 @@
 - name: français
   translated_name: Français
   code: fr
-  status: 1
+  status: 2
 - name: Gujarati
   translated_name: ગુજરાતી
   code: gu
